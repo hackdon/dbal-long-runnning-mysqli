@@ -12,7 +12,7 @@
         }
     ],
     "require": {
-        "doctrine/dbal": ">=2.5"
+        "doctrine/dbal": "~2.5.13"
     },
     "autoload": {
         "psr-4": { "Don\\DBAL\\Driver\\LongRunningMysqli\\": "src/" }
