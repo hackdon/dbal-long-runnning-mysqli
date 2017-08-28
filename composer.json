@@ -10,5 +10,8 @@
             "name": "Don",
             "email": "hackdon@outlook.com"
         }
-    ]
+    ],
+    "require": {
+        "doctrine/dbal": ">=2.5"
+    }
 }
