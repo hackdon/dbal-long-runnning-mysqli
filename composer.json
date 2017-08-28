@@ -1,0 +1,14 @@
+{
+    "name": "don/dbal-long-runnning-mysqli",
+    "type": "library",
+    "description": "Doctrine DBAL driver for MySQLi used in long-running processes/scripts",
+    "keywords": ["database", "driver", "doctrine", "dbal"],
+    "homepage": "https://github.com/hackdon/dbal-lrp-mysqli",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Don",
+            "email": "hackdon@outlook.com"
+        }
+    ]
+}
